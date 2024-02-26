@@ -1,4 +1,4 @@
-# TypeScript NPM Package Starter
+# TypeScript Package Starter
 
 This project serves as a starter template for developing NPM packages using TypeScript. It includes essential tooling and configurations to facilitate a smooth and quick start in your TypeScript project development.
 
@@ -14,7 +14,7 @@ This project serves as a starter template for developing NPM packages using Type
 To kickstart your own TypeScript NPM package project using this starter template, follow these steps:
 
 ```bash
-git clone https://github.com/joone/typescript-npm-package-starter.git
+git clone https://github.com/joone/typescript-package-starter.git
 cd typescript-npm-package-starter
 ```
 
