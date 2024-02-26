@@ -19,6 +19,7 @@ cd typescript-npm-package-starter
 ```
 
 ## Installation
+
 Before running the project, install the necessary dependencies:
 
 ```
@@ -26,6 +27,7 @@ npm install
 ```
 
 ## Running Tests
+
 To run the unit tests for your package, execute:
 
 ```
@@ -33,7 +35,9 @@ npm test
 ```
 
 ## Contributing
+
 If you would like to contribute to the project, please fork the repository and submit a pull request.
 
 ## License
+
 Include a section about the project's license, specifying how others can use or contribute to your project.
