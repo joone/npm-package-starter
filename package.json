@@ -1,5 +1,5 @@
 {
-  "name": "npm-pkg-starter",
+  "name": "typescript-package-starter",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
